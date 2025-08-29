@@ -25,6 +25,11 @@ I am a **Board Certified Oncology Pharmacist (BCOP)** and **Pharmacotherapy Spec
 
 📊 **Open-source tools for oncology & bioinformatics:**  
 
+### 🫁 [ABGInterpret](https://github.com/NabilPharmaInformatics/ABGInterpret)  
+🔗 A **Python-based arterial blood gas (ABG) analysis tool** for interpreting acid–base disorders.  
+Calculates anion gap, corrected gap, delta–delta, base deficit, and evaluates compensation (acute vs chronic).  
+Useful for clinical decision support, medical education, and research.
+
 ### 🔥 [KillTheTumor](https://github.com/NabilPharmaInformatics/KillTheTumor)  
 🎮 A gamified **R Shiny app** for simulating CHOP chemotherapy dose personalization in NHL.  
 Users adjust doses → PET-CT dynamics update → balance efficacy vs. toxicity.  
