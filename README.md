@@ -4,7 +4,7 @@
 _Bridging precision medicine, pharmacogenomics, and data science to optimize cancer therapy._
 
 [![Email](https://img.shields.io/badge/Email-nabil.abdelfattah@rms.bh-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabil.abdelfattah@rms.bh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nabil-mahmoud-abdelfattah-1b576911a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://.linkedin.com/in/nabil-mahmoud-abdelfattah-1b576911a/)
 [![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NabilPharmaInformatics/resume)
 
 ---
@@ -25,15 +25,15 @@ I am a **Board Certified Oncology Pharmacist (BCOP)** and **Pharmacotherapy Spec
 
 📊 **Open-source tools for oncology & bioinformatics:**  
 
-### 🔥 [KillTheTumor](https://github.com/your-username/KillTheTumor)  
+### 🔥 [KillTheTumor](https://github.com/NabilPharmaInformatics/KillTheTumor)  
 🎮 A gamified **R Shiny app** for simulating CHOP chemotherapy dose personalization in NHL.  
 Users adjust doses → PET-CT dynamics update → balance efficacy vs. toxicity.  
 
-### 🧩 [TumorLoc](https://github.com/your-username/TumorLoc)  
+### 🧩 [TumorLoc](https://github.com/NabilPharmaInformatics/TumorLoc)  
 📷 A Shiny app for **precise tumor localization & measurement** on medical images.  
 Computes tumor dimensions + angles relative to mediastinum to assist clinical decisions.  
 
-### 🧬 [HaplophaseR](https://github.com/your-username/haplophaseR)  
+### 🧬 [HaplophaseR](https://github.com/NabilPharmaInformatics/HaplophaseR)  
 🔗 An **R-based haplotype phasing tool** using the EM algorithm.  
 Supports pharmacogenomics & population genetics research pipelines.  
 
@@ -45,7 +45,7 @@ Supports pharmacogenomics & population genetics research pipelines.
 - ElNahass, Y., ..., **Abdelfattah, N.M.** (2024). *HLA alleles, haplotypes & hematological disorders*. **Immunogenetics**. [DOI](https://doi.org/10.1007/s00251-024-01343-x)  
 - **Abdelfattah, N.M.**, et al. (2021). *ABCB1 SNPs as predictors of paclitaxel neuropathy in breast cancer*. **Genet Test Mol Biomarkers**. [DOI](https://doi.org/10.1089/GTMB.2021.0014)  
 
-📑 *Full list available in my [CV](#).*  
+📑 *Full list available in my [CV](https://github.com/NabilPharmaInformatics/resume).*  
 
 ---
 
