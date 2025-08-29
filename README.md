@@ -1,6 +1,6 @@
-# 👨‍⚕️ Nabil Mahmoud Abdelfattah, BCOP, BCPS
+# 👨‍⚕️ Nabil Mahmoud Abdelfattah, MSc., BCOP, BCPS
 
-**Oncology Pharmacist & Clinician-Bioinformatician**  
+**Oncology Pharmacist & Clinical Data Scientist**  
 _Bridging precision medicine, pharmacogenomics, and data science to optimize cancer therapy._
 
 [![Email](https://img.shields.io/badge/Email-nabil.abdelfattah@rms.bh-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabil.abdelfattah@rms.bh)
@@ -11,7 +11,7 @@ _Bridging precision medicine, pharmacogenomics, and data science to optimize can
 
 ## 🧑‍🔬 About Me  
 
-I am a **Board Certified Oncology Pharmacist (BCOP)** and **Pharmacotherapy Specialist (BCPS)** at **King Hamad University Hospital (Bahrain Oncology Center)** with a passion for **translational bioinformatics**.  
+I am a **Board Certified Oncology Pharmacist (BCOP)** and **Pharmacotherapy Specialist (BCPS)** at **King Hamad University Hospital (Bahrain Oncology Center)** with a passion for **translational bioinformatics and pharmacogenomics**.  
 
 💡 My mission: to harness **statistical programming, pharmacogenomics, and data science** to personalize cancer treatment, improve efficacy, and minimize toxicity.  
 
