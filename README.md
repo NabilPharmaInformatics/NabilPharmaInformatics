@@ -4,8 +4,8 @@
 _Bridging precision medicine, pharmacogenomics, and data science to optimize cancer therapy._
 
 [![Email](https://img.shields.io/badge/Email-nabil.abdelfattah@rms.bh-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabil.abdelfattah@rms.bh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-mahmoud-1b576911a)
-[![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/[YourUsername]/[YourRepo]/raw/main/Nabil_Mahmoud_Abdelfattah_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nabil-mahmoud-abdelfattah-1b576911a)
+[![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NabilPharmaInformatics/resume/raw/main/Nabil Mahmoud Abdelfattah CV 29-8-2025.pdf)
 
 ---
 
