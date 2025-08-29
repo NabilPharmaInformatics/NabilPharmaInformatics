@@ -5,7 +5,7 @@ _Bridging precision medicine, pharmacogenomics, and data science to optimize can
 
 [![Email](https://img.shields.io/badge/Email-nabil.abdelfattah@rms.bh-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabil.abdelfattah@rms.bh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nabil-mahmoud-abdelfattah-1b576911a/)
-[![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NabilPharmaInformatics/resume/raw/main)
+[![CV](https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/NabilPharmaInformatics/resume/raw)
 
 ---
 
